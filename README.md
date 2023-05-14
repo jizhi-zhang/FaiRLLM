@@ -31,3 +31,4 @@ sst_path = XXX
 result_path = XXX
 ```
 
+Thank Milos Bejda for his excellent 10,000 MTV's Top Music Artists dataset at https://gist.github.com/mbejda/9912f7a366c62c1f296c!
